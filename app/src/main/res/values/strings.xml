@@ -1,0 +1,88 @@
+<resources>
+
+    <!-- Start -->
+    <string name="ButtonStartPageStart">Start Application</string>
+    <string name="ButtonStartPageClose">Close Application</string>
+
+    <!-- Login -->
+    <string name="Login_Hint">Admin or Guest Access</string>
+    <string name="Username">Staff ID</string>
+    <string name="Password">Password</string>
+    <string name="Guest">Continue as Guest</string>
+    <string name="Admin">Admin Login</string>
+
+    <!-- Menu -->
+    <string name="MenuSearch">Search Anything</string>
+    <string name="ButtonSushiCategory">Sushi</string>
+    <string name="ButtonDrinkCategory">Drinks</string>
+    <string name="ButtonMenuBackPage">Back</string>
+    <string name="ButtonMenuCheckout">Check</string>
+
+    <!-- Sample Sushi -->
+    <string name="sample_sushi_name">Salmon Sushi</string>
+    <string name="sample_sushi_description">Salmon come from Kyushu</string>
+    <string name="sample_sushi_prise">¥850</string>
+    <string name="sample_sushi_Quantity">1</string>
+
+    <!-- Checkout -->
+    <string name="CheckoutPageTitle">Shopping Cart</string>
+    <string name="CheckoutPageItemCount">0 items</string>
+    <string name="CheckoutPageSubTotal">Subtotal:</string>
+    <string name="CheckoutPageSubTotaPrice">¥0</string>
+    <string name="CheckoutPageTax">Tax (10%):</string>
+    <string name="CheckoutPageTaxPrice">¥0</string>
+    <string name="CheckoutPageTotal">Total:</string>
+    <string name="CheckoutPageTotalPrice">¥0:</string>
+    <string name="ButtonCheckoutPageBack">Back</string>
+    <string name="ButtonCheckoutPageConfirm">Confirm</string>
+
+    <!-- Admin -->
+    <string name="Admin_Title">Admin Panel</string>
+    <string name="ButtonListOrder">Orders</string>
+    <string name="ButtonListSushi">Sushi</string>
+    <string name="ButtonListDrink">Drinks</string>
+    <string name="ButtonBack">Back</string>
+    <string name="ButtonAddItem">Add Item</string>
+    <string name="AdminItemUUID">UUID: 9967fb6a-7322-4a50-a3a3-cdb236a658b6</string>
+    <string name="ButtonAdminItemEdit">Edit item</string>
+    <string name="ButtonAdminItemDelete">Delete item</string>
+    <string name="EditItemName">Name</string>
+    <string name="EditItemDescription">Description</string>
+    <string name="EditItemPrice">Price (e.g., ¥850)</string>
+    <string name="EditItemImage">Image Name (e.g., salom_sushi)</string>
+    <string name="Edit_Note">Note: Image must be in drawable folder</string>
+    <string name="AdminOrderNumber">Order #12345</string>
+    <string name="AdminOrderTotal">¥0</string>
+    <string name="AdminOrderItemCountText">Items: </string>
+    <string name="AdminOrderItemCount">0</string>
+    <string name="AdminOrderSubTotalText">Subtotal: </string>
+    <string name="AdminOrderSubTotal">¥0</string>
+    <string name="AdminOrderTaxText">Tax: </string>
+    <string name="AdminOrderTax">¥0</string>
+    <string name="AdminOrderTimesTamp">2024-12-01 12:00:00</string>
+    <string name="AdminOrderUDID">UUID: 58bbca5e-2f5e-43cd-93f2-c05936a63620</string>
+    <string name="BottenAdminOrder">View Details</string>
+
+
+
+
+    <!-- Success -->
+    <string name="SuccessPageTitle">Order Successful!</string>
+    <string name="SuccessPageMessage">Thank you for your order!\nYour food will be ready soon.</string>
+    <string name="SuccessPageOrderNumberText">Order Number:</string>
+    <string name="SuccessPageOrderNumber">#12345</string>
+    <string name="SuccessPageTotalAmountText">Total Amount:</string>
+    <string name="SuccessPageTotalAmount">¥0</string>
+    <string name="SuccessPageItemsText">Items:</string>
+    <string name="SuccessPageItems">0 items</string>
+
+    <!-- hold -->
+    <string name="app_name">SushiHub</string>
+    <string name="back">Back</string>
+    <string name="login">Login</string>
+    <string name="catalog_menu">Catalog</string>
+    <string name="start_menu">Start Menu</string>
+    <string name="guest_login">Guest Login :</string>
+    <string name="staff_login">Staff Login :</string>
+
+</resources>
